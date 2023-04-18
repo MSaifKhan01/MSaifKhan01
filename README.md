@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js Backbend Development**
 
-- 👨‍💻 All of my projects are available at [MSaifKhan01.github.io](MSaifKhan01.github.io)
+- 👨‍💻 All of my projects are available at https://MSaifKhan01.github.io 
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Node.js, Express.js and mongoDB**
 
