@@ -22,7 +22,8 @@ body{
   }
   #resume-button-1 {
     border-radius: 7px;
-    border: 2px solid black;
+    /* padding: 5px; */
+    border: 2px solid white;
   }
   .nav-colored {
     background-color:  #340B26;
@@ -283,7 +284,7 @@ margin-bottom: 10px;
     /* transition: width 2s; */
   }
   .contactflex>*:hover{
-  color:  #f51cb3;
+  color:  lightcoral;
   }
   /* -------------hamburger----------------*/
   .sidebar {
@@ -374,6 +375,7 @@ margin-bottom: 10px;
     font-family: cursive;
     display: block;
     right:0;
+  
   }
   }
   
