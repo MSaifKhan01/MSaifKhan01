@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js Backbend Development**
 
-<p portfolio align="left"> <a href="https://MSaifKhan01.github.io"></a> </p>
+ <a href="https://MSaifKhan01.github.io"> portfolio</a>
 
 - 👨‍💻 All of my projects are available at https://MSaifKhan01.github.io 
 
