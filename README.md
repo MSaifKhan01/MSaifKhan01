@@ -14,7 +14,7 @@
 - 📫 How to reach me **msaifkhan5038@gmail.com**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E_MRLhQXpvVpugsQux8z59pULffjQkUz/view](https://drive.google.com/file/d/1E_MRLhQXpvVpugsQux8z59pULffjQkUz/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1E_MRLhQXpvVpugsQux8z59pULffjQkUz/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
