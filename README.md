@@ -60,7 +60,28 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=msaifkhan01&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<! --
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaifkhan01&show_icons=true&locale=en" alt="msaifkhan01" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaifkhan01&" alt="msaifkhan01" /></p> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=msaifkhan01&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msaifkhan01&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<! --
+<p style="background-color: black;">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=msaifkhan01&show_icons=true&locale=en"
+    alt="msaifkhan01"
+  />
+</p>
 
+<p style="background-color: black;">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=msaifkhan01&"
+    alt="msaifkhan01"
+  />
+</p>
+-->
